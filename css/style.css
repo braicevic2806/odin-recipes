@@ -1,0 +1,36 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: #333;
+    color: #fff;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.primary-heading,
+.secondary-heading,
+.tertiary-heading {
+    font-weight: 700;
+}
+
+.primary-heading {
+    font-size: 40px;
+}
+
+.secondary-heading {
+    font-size: 35px;
+}
+
+.tertiary-heading {
+    font-size: 30px;
+}
+
+.index {
+    text-align: center;
+}
+
+.index ul {
+    list-style: none;
+}
